@@ -13,6 +13,7 @@ Number of Patients by Gender: Donut charts displaying the number of patients seg
 Technology Stack:
 
 Tableau: For designing and deploying interactive dashboards that effectively visualize healthcare data.
+
 Excel: Used as the primary tool for data cleaning, transformation, and preliminary analysis of the healthcare dataset.
 
 
